@@ -40,7 +40,7 @@
   <project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" groups="device" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" groups="device" />
   <project path="device/ti/panda" name="CyanogenMod/android_device_ti_panda" groups="device" />
-  <project path="device/xiaomi/mione_plus" name="mirom/android_device_xiaomi_mione_plus" />
+  <project path="device/xiaomi/mione_plus" name="mirom/android_device_xiaomi_mione_plus"  revision="mione"/>
   <project path="device/xiaomi/msm8660-common" name="mirom/android_device_xiaomi_msm8660-common" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="external/aac" name="CyanogenMod/android_external_aac" />
